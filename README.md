@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhakermanish39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dhakermanish39/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

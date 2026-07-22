@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/dhakermanish39/LeetCode/tree/master/0015-3sum) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhakermanish39/LeetCode/tree/master/0015-3sum) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dhakermanish39/LeetCode/tree/master/0015-3sum) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |

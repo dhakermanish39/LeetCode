@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/dhakermanish39/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dhakermanish39/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/dhakermanish39/LeetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |

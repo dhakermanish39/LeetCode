@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dhakermanish39/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->

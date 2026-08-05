@@ -133,5 +133,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/dhakermanish39/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/dhakermanish39/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->

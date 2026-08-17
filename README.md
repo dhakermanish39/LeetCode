@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dhakermanish39/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dhakermanish39/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhakermanish39/LeetCode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Brainteaser

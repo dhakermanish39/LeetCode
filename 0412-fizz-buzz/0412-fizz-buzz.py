@@ -5,7 +5,9 @@ class Solution(object):
         :rtype: List[str]
         """
         num=[]
-        for i in range(1,n+1):
+        i=1
+        while i<=n:
+
             if i%3==0 and i%5==0 :
                 num.append("FizzBuzz")
             elif    i%3==0 :
@@ -13,7 +15,8 @@ class Solution(object):
             elif  i%5==0:
                 num.append("Buzz")
             else:
-                num.append(str(i))    
+                num.append(str(i))
+            i+=1        
         return num        
 
 

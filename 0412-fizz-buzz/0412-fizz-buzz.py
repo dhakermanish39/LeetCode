@@ -8,7 +8,7 @@ class Solution(object):
         i=1
         while i<=n:
 
-            if i%3==0 and i%5==0 :
+            if i%15==0:
                 num.append("FizzBuzz")
             elif    i%3==0 :
                 num.append("Fizz")

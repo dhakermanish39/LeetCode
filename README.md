@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhakermanish39/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/dhakermanish39/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dhakermanish39/LeetCode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhakermanish39/LeetCode/tree/master/0118-pascals-triangle) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dhakermanish39/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dhakermanish39/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhakermanish39/LeetCode/tree/master/1025-divisor-game) |

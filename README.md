@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dhakermanish39/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dhakermanish39/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhakermanish39/LeetCode/tree/master/1025-divisor-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhakermanish39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhakermanish39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakermanish39/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

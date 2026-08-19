@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/dhakermanish39/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dhakermanish39/LeetCode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/dhakermanish39/LeetCode/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhakermanish39/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhakermanish39/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

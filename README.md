@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dhakermanish39/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3668-restore-finishing-order](https://github.com/dhakermanish39/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/dhakermanish39/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Linked List
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/dhakermanish39/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/dhakermanish39/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
 | ------- |

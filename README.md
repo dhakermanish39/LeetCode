@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhakermanish39/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/dhakermanish39/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhakermanish39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhakermanish39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/dhakermanish39/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dhakermanish39/LeetCode/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dhakermanish39/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Divide and Conquer
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dhakermanish39/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

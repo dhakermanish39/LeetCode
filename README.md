@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/dhakermanish39/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dhakermanish39/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dhakermanish39/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dhakermanish39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/dhakermanish39/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/dhakermanish39/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dhakermanish39/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dhakermanish39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |

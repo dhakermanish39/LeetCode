@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/dhakermanish39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhakermanish39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dhakermanish39/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/dhakermanish39/LeetCode/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/dhakermanish39/LeetCode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhakermanish39/LeetCode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhakermanish39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhakermanish39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhakermanish39/LeetCode/tree/master/1025-divisor-game) |
 ## Bit Manipulation
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhakermanish39/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dhakermanish39/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dhakermanish39/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhakermanish39/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -305,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dhakermanish39/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

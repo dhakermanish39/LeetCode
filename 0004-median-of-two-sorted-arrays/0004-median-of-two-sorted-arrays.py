@@ -1,5 +1,7 @@
-class Solution(object):
+class Solution:
+    
     def findMedianSortedArrays(self, nums1, nums2):
+
         """
         :type nums1: List[int]
         :type nums2: List[int]
@@ -32,7 +34,7 @@ class Solution(object):
                     be=fe
                     fe=nums2[back]
                     back+=1 
-        return fe if s%2!=0 else( fe+be)/2.0           
+        return fe if s%2!=0 else( fe+be)/2        
 
 
 
@@ -40,4 +42,5 @@ class Solution(object):
 
 
 
+        
         

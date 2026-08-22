@@ -11,20 +11,16 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        stack = []
-        result = []
+        lst = []
 
-        current = root
+        def inorder(root):
+            if root is None:
+                return
 
-        while current or stack:
+            
+            inorder(root.left)
+            lst.append(root.val)
+            inorder(root.right)
 
-            while current:
-                stack.append(current)
-                current = current.left
-
-            current = stack.pop()
-            result.append(current.val)
-
-            current = current.right
-
-        return result
+        inorder(root)
+        return lst

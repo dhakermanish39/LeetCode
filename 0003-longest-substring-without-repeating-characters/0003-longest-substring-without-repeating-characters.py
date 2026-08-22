@@ -4,7 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        
         result=0
         s=[]
         for i in st:
@@ -19,5 +18,4 @@ class Solution(object):
                     s.pop(0)
                 s.append(i)    
                     
-        return result                
-        
+        return result

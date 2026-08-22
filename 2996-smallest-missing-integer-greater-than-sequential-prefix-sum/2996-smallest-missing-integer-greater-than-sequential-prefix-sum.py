@@ -6,7 +6,7 @@ class Solution(object):
         """
         count=1
         for i in range(1,len(nums)):
-            if nums[i]<=nums[i-1] or nums[i]-1!=nums[i-1]:
+            if nums[i]-1!=nums[i-1]:
                 break
             count+=1
         ps=sum(nums[:count])

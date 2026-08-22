@@ -14,7 +14,7 @@ class Solution(object):
                 result=max(result,count)
             else:
                 
-                result=max(result,len(s))
+                #result=max(result,len(s))
                 while i in s:
                     s.pop(0)
                     count-=1

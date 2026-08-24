@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dhakermanish39/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1672-richest-customer-wealth](https://github.com/dhakermanish39/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dhakermanish39/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhakermanish39/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/dhakermanish39/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhakermanish39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhakermanish39/LeetCode/tree/master/1025-divisor-game) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhakermanish39/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->

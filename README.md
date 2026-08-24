@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/dhakermanish39/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhakermanish39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/dhakermanish39/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhakermanish39/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dhakermanish39/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhakermanish39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhakermanish39/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhakermanish39/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhakermanish39/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/dhakermanish39/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhakermanish39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhakermanish39/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhakermanish39/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching

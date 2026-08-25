@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/dhakermanish39/LeetCode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/dhakermanish39/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/dhakermanish39/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/dhakermanish39/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhakermanish39/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dhakermanish39/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |

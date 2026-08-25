@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/dhakermanish39/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhakermanish39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhakermanish39/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/dhakermanish39/LeetCode/tree/master/2942-find-words-containing-character) |

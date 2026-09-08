@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dhakermanish39/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/dhakermanish39/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhakermanish39/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/dhakermanish39/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhakermanish39/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhakermanish39/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/dhakermanish39/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1089-duplicate-zeros](https://github.com/dhakermanish39/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhakermanish39/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhakermanish39/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhakermanish39/LeetCode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhakermanish39/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhakermanish39/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |

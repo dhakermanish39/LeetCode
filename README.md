@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/dhakermanish39/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/dhakermanish39/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dhakermanish39/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/dhakermanish39/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhakermanish39/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dhakermanish39/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/dhakermanish39/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/dhakermanish39/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dhakermanish39/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhakermanish39/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/dhakermanish39/LeetCode/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Linked List
 |  |
 | ------- |

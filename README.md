@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhakermanish39/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/dhakermanish39/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/dhakermanish39/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/dhakermanish39/LeetCode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/dhakermanish39/LeetCode/tree/master/3813-vowel-consonant-score) |
 ## String Matching
 |  |

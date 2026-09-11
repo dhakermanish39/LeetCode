@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/dhakermanish39/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/dhakermanish39/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dhakermanish39/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1890-the-latest-login-in-2020](https://github.com/dhakermanish39/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dhakermanish39/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Minimax
 |  |

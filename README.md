@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhakermanish39/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/dhakermanish39/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/dhakermanish39/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhakermanish39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhakermanish39/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dhakermanish39/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/dhakermanish39/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dhakermanish39/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2390-removing-stars-from-a-string](https://github.com/dhakermanish39/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/dhakermanish39/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhakermanish39/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/dhakermanish39/LeetCode/tree/master/0682-baseball-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2390-removing-stars-from-a-string](https://github.com/dhakermanish39/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/dhakermanish39/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1672-richest-customer-wealth](https://github.com/dhakermanish39/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhakermanish39/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/dhakermanish39/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhakermanish39/LeetCode/tree/master/1929-concatenation-of-array) |

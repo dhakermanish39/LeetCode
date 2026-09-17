@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dhakermanish39/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/dhakermanish39/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dhakermanish39/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/dhakermanish39/LeetCode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/dhakermanish39/LeetCode/tree/master/0486-predict-the-winner) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhakermanish39/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/dhakermanish39/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/dhakermanish39/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dhakermanish39/LeetCode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/dhakermanish39/LeetCode/tree/master/0486-predict-the-winner) |
 ## Matrix
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/dhakermanish39/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dhakermanish39/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/dhakermanish39/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dhakermanish39/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/dhakermanish39/LeetCode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dhakermanish39/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |

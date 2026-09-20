@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/dhakermanish39/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/dhakermanish39/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/dhakermanish39/LeetCode/tree/master/1789-primary-department-for-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/dhakermanish39/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/dhakermanish39/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dhakermanish39/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Minimax

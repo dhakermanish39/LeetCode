@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhakermanish39/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/dhakermanish39/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/dhakermanish39/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dhakermanish39/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dhakermanish39/LeetCode/tree/master/0075-sort-colors) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhakermanish39/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/dhakermanish39/LeetCode/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhakermanish39/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dhakermanish39/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/dhakermanish39/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dhakermanish39/LeetCode/tree/master/0118-pascals-triangle) |

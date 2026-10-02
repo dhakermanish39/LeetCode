@@ -1,15 +1,19 @@
-class Solution:
-    def reverseParentheses(self, s: str) -> str:
-        open_parentheses_indices = deque()
+class Solution(object):
+    def reverseParentheses(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        op = deque()
         result = []
 
-        for current_char in s:
-            if current_char == "(":
+        for i in s:
+            if i == "(":
                 
-                open_parentheses_indices.append(len(result))
-            elif current_char == ")":
-                start = open_parentheses_indices.pop()
-                result[start:] = result[start:][::-1]
+               op.append(len(result))
+            elif i == ")":
+                s =op.pop()
+                result[s:] = result[s:][::-1]
             else:
-                result.append(current_char)
-        return "".join(result)
+                result.append(i)
+        return "".join(result)     

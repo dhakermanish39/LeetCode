@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/dhakermanish39/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/dhakermanish39/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/dhakermanish39/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/dhakermanish39/LeetCode/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/dhakermanish39/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/dhakermanish39/LeetCode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhakermanish39/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/dhakermanish39/LeetCode/tree/master/2974-minimum-number-game) |
 ## Trie
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dhakermanish39/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
@@ -589,4 +594,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhakermanish39/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

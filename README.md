@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/dhakermanish39/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/dhakermanish39/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhakermanish39/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/dhakermanish39/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dhakermanish39/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/dhakermanish39/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/dhakermanish39/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Z Algorithm
 |  |

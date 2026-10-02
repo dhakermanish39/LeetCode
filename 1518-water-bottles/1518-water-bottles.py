@@ -10,7 +10,8 @@ class Solution(object):
             res=res+numBottles//numExchange
             if (numBottles//numExchange)+(numBottles%numExchange)>=numExchange:
                 numBottles=(numBottles//numExchange)+(numBottles%numExchange)
-            else:numBottles=(numBottles//numExchange)
+            else:
+                numBottles=(numBottles//numExchange)
 
         return res    
         

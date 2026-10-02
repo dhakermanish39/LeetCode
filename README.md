@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhakermanish39/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/dhakermanish39/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dhakermanish39/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3100-water-bottles-ii](https://github.com/dhakermanish39/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dhakermanish39/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dhakermanish39/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhakermanish39/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/dhakermanish39/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhakermanish39/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3100-water-bottles-ii](https://github.com/dhakermanish39/LeetCode/tree/master/3100-water-bottles-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhakermanish39/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/dhakermanish39/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3813-vowel-consonant-score](https://github.com/dhakermanish39/LeetCode/tree/master/3813-vowel-consonant-score) |

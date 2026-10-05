@@ -5,11 +5,11 @@ class Solution(object):
         :rtype: int
         """
         d={}
-        temp=[]
+        temp=-1
         for i in arr:
             d[i]=d.get(i,0)+1
         for i in d.keys():
             if i==d[i]:
-                temp.append(i)
-        return max(temp) if temp else -1            
+                temp=max(temp,i)
+        return temp          
         

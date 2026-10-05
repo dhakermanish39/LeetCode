@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dhakermanish39/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/dhakermanish39/LeetCode/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/dhakermanish39/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/dhakermanish39/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhakermanish39/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhakermanish39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/dhakermanish39/LeetCode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/dhakermanish39/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/dhakermanish39/LeetCode/tree/master/1025-divisor-game) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhakermanish39/LeetCode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/dhakermanish39/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dhakermanish39/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/dhakermanish39/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/dhakermanish39/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/dhakermanish39/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/dhakermanish39/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dhakermanish39/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/dhakermanish39/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/dhakermanish39/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dhakermanish39/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/dhakermanish39/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/dhakermanish39/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Z Algorithm

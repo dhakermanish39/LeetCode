@@ -13,8 +13,8 @@ class Solution(object):
                 e=len(nums)-1
                 while s<e:
                     if nums[i]+nums[j]+nums[s]+nums[e] == target:
-                        if sorted([nums[i],nums[j],nums[s],nums[e]]) not in res:
-                            res.append(sorted([nums[i],nums[j],nums[s],nums[e]]))
+                        if [nums[i],nums[j],nums[s],nums[e]] not in res:
+                            res.append([nums[i],nums[j],nums[s],nums[e]])
                         s+=1    
                             
                     elif nums[i]+nums[j]+nums[s]+nums[e] < target :

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/dhakermanish39/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dhakermanish39/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/dhakermanish39/LeetCode/tree/master/0078-subsets) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhakermanish39/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/dhakermanish39/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/dhakermanish39/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhakermanish39/LeetCode/tree/master/0217-contains-duplicate) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dhakermanish39/LeetCode/tree/master/1672-richest-customer-wealth) |

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dhakermanish39/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/dhakermanish39/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhakermanish39/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/dhakermanish39/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dhakermanish39/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dhakermanish39/LeetCode/tree/master/0414-third-maximum-number) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhakermanish39/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/dhakermanish39/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/dhakermanish39/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dhakermanish39/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/dhakermanish39/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -652,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/dhakermanish39/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

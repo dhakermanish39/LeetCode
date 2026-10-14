@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhakermanish39/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dhakermanish39/LeetCode/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhakermanish39/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/dhakermanish39/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/dhakermanish39/LeetCode/tree/master/0046-permutations) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhakermanish39/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhakermanish39/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhakermanish39/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhakermanish39/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |

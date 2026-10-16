@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhakermanish39/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/dhakermanish39/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dhakermanish39/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/dhakermanish39/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhakermanish39/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhakermanish39/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/dhakermanish39/LeetCode/tree/master/0217-contains-duplicate) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dhakermanish39/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dhakermanish39/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/dhakermanish39/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/dhakermanish39/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/dhakermanish39/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhakermanish39/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/dhakermanish39/LeetCode/tree/master/0342-power-of-four) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dhakermanish39/LeetCode/tree/master/0204-count-primes) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/dhakermanish39/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dhakermanish39/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dhakermanish39/LeetCode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dhakermanish39/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
@@ -667,4 +671,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dhakermanish39/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhakermanish39/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhakermanish39/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dhakermanish39/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

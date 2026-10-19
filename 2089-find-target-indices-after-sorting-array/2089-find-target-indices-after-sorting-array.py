@@ -7,11 +7,10 @@ class Solution(object):
         """
         nums.sort()
         ans=[]
-        x=0
-        if target in nums:
-           x=nums.index(target)
-        while x< len(nums) and nums[x]==target:
-            ans.append(x)
-            x+=1
+        for i in range(len(nums)):
+            if nums[i]>target:
+                break
+            elif nums[i]==target:
+                ans.append(i)    
         return ans    
         

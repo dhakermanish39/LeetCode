@@ -14,4 +14,6 @@ class Solution(object):
 
            result += new_subsets
 
-        return result
+        return result           
+
+        

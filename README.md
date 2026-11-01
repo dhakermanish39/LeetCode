@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/dhakermanish39/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/dhakermanish39/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dhakermanish39/LeetCode/tree/master/0739-daily-temperatures) |
+| [0806-number-of-lines-to-write-string](https://github.com/dhakermanish39/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/dhakermanish39/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/dhakermanish39/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/dhakermanish39/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/dhakermanish39/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/dhakermanish39/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/dhakermanish39/LeetCode/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/dhakermanish39/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/dhakermanish39/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/dhakermanish39/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhakermanish39/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
